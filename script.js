@@ -124,7 +124,7 @@
       busiest_note: 'قەرەبالغترین دەم: شەڤا پێنجشەمبیێ',
       location_title: 'جهـ',
       address_text: 'VX4G+PXG، دهۆک، پارێزگەها دهۆکێ، عیراق',
-      map_title: 'نەخشەیێ جهێ چێشتخانا ئۆفیلیا',
+      map_title: 'نەخشەیێ جهێ خارنگەها ئۆفیلیا',
       get_directions: 'ئاراستەیان وەربگرە',
       footer_call_aria: 'پەیوەندیێ ب مە بكە',
       footer_whatsapp_aria: 'واتساپ',
